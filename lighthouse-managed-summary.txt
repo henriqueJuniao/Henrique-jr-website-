@@ -1,0 +1,72 @@
+
+PERFORMANCE 49
+FAIL | first-contentful-paint | First Contentful Paint | 11.0 s
+FAIL | largest-contentful-paint | Largest Contentful Paint | 18.8 s
+WARN | total-blocking-time | Total Blocking Time | 300 ms
+WARN | speed-index | Speed Index | 11.0 s
+WARN | document-latency-insight | Document request latency | Est savings of 242 KiB
+WARN | image-delivery-insight | Improve image delivery | Est savings of 169 KiB
+FAIL | network-dependency-tree-insight | Network dependency tree
+FAIL | render-blocking-insight | Render-blocking requests | Est savings of 150 ms
+WARN | interactive | Time to Interactive | 18.9 s
+WARN | max-potential-fid | Max Potential First Input Delay | 260 ms
+FAIL | unminified-javascript | Minify JavaScript | Est savings of 1,044 KiB
+WARN | unused-css-rules | Reduce unused CSS | Est savings of 19 KiB
+FAIL | unused-javascript | Reduce unused JavaScript | Est savings of 797 KiB
+WARN | total-byte-weight | Avoid enormous network payloads | Total size was 4,171 KiB
+FAIL | mainthread-work-breakdown | Minimize main-thread work | 2.6 s
+FAIL | bf-cache | Page prevented back/forward cache restoration | 2 failure reasons
+
+ACCESSIBILITY 95
+FAIL | color-contrast | Background and foreground colors do not have a sufficient contrast ratio.
+
+BEST-PRACTICES 81
+FAIL | deprecations | Uses deprecated APIs | 1 warning found
+
+SEO 100
+
+DETAILS
+
+[lcp-discovery-insight] 
+
+[render-blocking-insight] Est savings of 150 ms
+{"url":"https://fonts.googleapis.com/css2?family=Instrument+Sans:wdth,wght@75..100,400..700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500&display=swap","totalBytes":1231,"wastedMs":773}
+
+[unused-javascript] Est savings of 797 KiB
+{"url":"http://127.0.0.1:3000/@fs/home/ubuntu/henriquejr-v1/node_modules/.vite/deps/react-dom_client.js?v=fd3095da","totalBytes":1005968,"wastedBytes":454489,"wastedPercent":45.17927011594802,"subItems":{"type":"subitems","items":[{"source":"…react-dom@19.2.1_react@19.2.1/node_modules/react-dom/cjs/react-dom-client.development.js","sourceBytes":992532,"sourceWastedBytes":451794},{"source":"…scheduler@0.27.0/node_modules/scheduler/cjs/scheduler.development.js","sourceBytes":11422,"sourceWastedBytes":2695}]}}
+{"url":"http://127.0.0.1:3000/","totalBytes":366823,"wastedBytes":224765,"wastedPercent":61.27342069608503}
+{"url":"http://127.0.0.1:3000/@fs/home/ubuntu/henriquejr-v1/node_modules/.vite/deps/chunk-SNLB5SHR.js?v=54601bbd","totalBytes":91328,"wastedBytes":87997,"wastedPercent":96.35270672740013,"subItems":{"type":"subitems","items":[{"source":"…default-config.ts","sourceBytes":30142,"sourceWastedBytes":30117},{"source":"…class-group-utils.ts","sourceBytes":3598,"sourceWastedBytes":3333},{"source":"…parse-class-name.ts","sourceBytes":2525,"sourceWastedBytes":2346},{"source":"…validators.ts","sourceBytes":3461,"sourceWastedBytes":1996},{"source":"…merge-classlist.ts","sourceBytes":1907,"sourceWastedBytes":1851}]}}
+{"url":"http://127.0.0.1:3000/@fs/home/ubuntu/henriquejr-v1/node_modules/.vite/deps/chunk-HLYKEPLF.js?v=54601bbd","totalBytes":45821,"wastedBytes":24512,"wastedPercent":53.49512232382531,"subItems":{"type":"subitems","items":[{"source":"…cjs/react.development.js","sourceBytes":44925,"sourceWastedBytes":24512}]}}
+{"url":"http://127.0.0.1:3000/@fs/home/ubuntu/henriquejr-v1/node_modules/.vite/deps/lucide-react.js?v=278430ef","totalBytes":948585,"wastedBytes":24404,"wastedPercent":2.5726740355371422,"subItems":{"type":"subitems","items":[{"source":"…lucide-react/dist/esm/icons/index.js","sourceBytes":48861,"sourceWastedBytes":24404}]}}
+
+[total-byte-weight] Total size was 4,171 KiB
+{"url":"http://127.0.0.1:3000/@fs/home/ubuntu/henriquejr-v1/node_modules/.vite/deps/react-dom_client.js?v=fd3095da","totalBytes":1006350}
+{"url":"http://127.0.0.1:3000/@fs/home/ubuntu/henriquejr-v1/node_modules/.vite/deps/lucide-react.js?v=278430ef","totalBytes":948897}
+{"url":"http://127.0.0.1:3000/","totalBytes":370053}
+{"url":"https://d36hbw14aib5lz.cloudfront.net/310419663028546729/i7CAfM3B5EvfibkK7CzAiP/henrique-jr-corporate-bjj-programme-lg_532d1553.webp?Expires=1783961933&Signature=Q8y5ZPPmUWmIDM3q92zEvhYsY5BZ9ezxc6ljcqkJsyzQHhscmKFRUqwbXAvEfP25WolD0Awvn4VLslDC8CNsHAg6DrHZ1Ekqhf5bWDe5tbp7-ipKXrUROlSNjc-~2Lt0zMsT5V5uSwhgyQ5ZR9y4kiwT8S9Xj7u5wVh~061W0yGEj77y4v3f2JyCc39UlIy1OckzgypRLzmS1MFsdYKArc6UbyMf3xa0pquOQGddBJwKxvPjc5ErdiR7GQDAlGbREDCdw1Cq4oWmN6KExW79yqnMHUf6SGVT~hg9uIMqhePHsy4uJmoA5bt-vStuBnpbQryyeuup9pa91v216AkeRA__&Key-Pair-Id=K1MP89RTKNH4J","totalBytes":194508}
+{"url":"http://127.0.0.1:3000/src/index.css?t=1783958301443","totalBytes":182018}
+{"url":"http://127.0.0.1:3000/@vite/client","totalBytes":177307}
+{"url":"https://d36hbw14aib5lz.cloudfront.net/310419663028546729/i7CAfM3B5EvfibkK7CzAiP/roger-gracie-euston-bjj-community-lg_4dc59891.webp?Expires=1783961933&Signature=WuTZI~305M3aCtRgPimPvQgKZ3JiBwbgFzUmK0bC3YkoaEjnBXDttR42T0B-T6Raq0E9rmccVavrxS-Z2KA~Xm~O3JOPpxjT8rRKptVOzB9CF9xd7yxGEeGDYpVpTdUhX4qjSEYHKbrtf-qbaoE-UoEqX-ES8e-aEC4sqPEXHkjCxZvSwO1qTmDQeWXmyAawgidM4MM8-S5~OFYmqtYhZQRiPo-jB-1PBzY-Kv11I66mT70r65JwBRTCc1k-OY1deIk8CRP6EP1Et1Rsg4~gEYw4RveX4mpflWo29lvidLY1SI2bpb9OWAAUbv1N8L8685kN5ZqBDIztYVsQO6vlgg__&Key-Pair-Id=K1MP89RTKNH4J","totalBytes":167602}
+{"url":"https://fonts.gstatic.com/s/sourceserif4/v14/vEFI2_tTDB4M7-auWDN0ahZJW1gb8te1Xb7G.woff2","totalBytes":122349}
+{"url":"http://127.0.0.1:3000/@react-refresh","totalBytes":112187}
+{"url":"https://d36hbw14aib5lz.cloudfront.net/310419663028546729/i7CAfM3B5EvfibkK7CzAiP/henrique-jr-coaching-bjj-students-lg_108045e4.webp?Expires=1783961933&Signature=mI97lmZ10IDd~O8~lm5SP0KV8vxwyurpOeLnh6Q9pnuLU-rrWd6zsrPybM3JO-sqnQxyQVecnGoE1xXWN7~zuVdvBW6625Zo3k90J0NkTkG9j0x180jS~~Pjce32YDtCLJUDxpicy00YfQDg-FXdqiQo9XJ9O6VodQG2xOsWFagwZLw7qXjxwFwFAa-P1Ykl63wAush4R3yraiKZXVmL0SnmpyjzkF5C-7mUHjcpDhw3wfR4km28AcvVFvlLCVPks2PixwG4GGIIL3b~ih5QkVMf0i3H0xFhBORuzJ-dkOD0VPHgL2gp-Pu8pj1VXG~LhKS1hE5PIz5w8PJ3QQJqqQ__&Key-Pair-Id=K1MP89RTKNH4J","totalBytes":109231}
+
+[color-contrast] 
+{"node":{"type":"node","lhId":"1-0-SPAN","path":"1,HTML,1,BODY,1,DIV,0,DIV,3,FOOTER,2,DIV,0,SPAN","selector":"div.site-shell > footer.site-footer > div.site-footer__bottom > span","boundingRect":{"top":12316,"bottom":12332,"left":21,"right":129,"width":108,"height":15},"snippet":"<span data-loc=\"client/src/components/SiteLayout.tsx:124\">","nodeLabel":"© 2026 HENRIQUEJR","explanation":"Fix any of the following:\n  Element has insufficient color contrast of 4.35 (foreground color: #777671, background color: #0a0a0a, font size: 7.4pt (9.92px), font weight: normal). Expected contrast ratio of 4.5:1"},"subItems":{"type":"subitems","items":[{"relatedNode":{"type":"node","lhId":"1-1-FOOTER","path":"1,HTML,1,BODY,1,DIV,0,DIV,3,FOOTER","selector":"body > div#root > div.site-shell > footer.site-footer","boundingRect":{"top":11453,"bottom":12411,"left":0,"right":412,"width":412,"height":958},"snippet":"<footer data-loc=\"client/src/components/SiteLayout.tsx:93\" class=\"site-footer\">","nodeLabel":"HenriqueJR\n\nTechnical excellence. Individual attention. Long-term development.\n…"}}]}}
+{"node":{"type":"node","lhId":"1-2-SPAN","path":"1,HTML,1,BODY,1,DIV,0,DIV,3,FOOTER,2,DIV,1,SPAN","selector":"div.site-shell > footer.site-footer > div.site-footer__bottom > span","boundingRect":{"top":12364,"bottom":12379,"left":21,"right":243,"width":222,"height":15},"snippet":"<span data-loc=\"client/src/components/SiteLayout.tsx:125\">","nodeLabel":"BRAZILIAN JIU-JITSU COACHING · LONDON","explanation":"Fix any of the following:\n  Element has insufficient color contrast of 4.35 (foreground color: #777671, background color: #0a0a0a, font size: 7.4pt (9.92px), font weight: normal). Expected contrast ratio of 4.5:1"},"subItems":{"type":"subitems","items":[{"relatedNode":{"type":"node","lhId":"1-1-FOOTER","path":"1,HTML,1,BODY,1,DIV,0,DIV,3,FOOTER","selector":"body > div#root > div.site-shell > footer.site-footer","boundingRect":{"top":11453,"bottom":12411,"left":0,"right":412,"width":412,"height":958},"snippet":"<footer data-loc=\"client/src/components/SiteLayout.tsx:93\" class=\"site-footer\">","nodeLabel":"HenriqueJR\n\nTechnical excellence. Individual attention. Long-term development.\n…"}}]}}
+
+[errors-in-console] 
+
+[deprecations] 1 warning found
+{"value":"Unload event listeners are deprecated and will be removed.","source":{"type":"source-location","url":"http://127.0.0.1:3000/","urlProvider":"network","line":87,"column":65214},"subItems":{"type":"subitems","items":[{"type":"link","url":"https://chromestatus.com/feature/5579556305502208","text":"Check the feature status page for more details."}]}}
+
+[bf-cache] 2 failure reasons
+{"reason":"The page has an unload handler in the main frame.","failureType":"Actionable","subItems":{"type":"subitems","items":[{"frameUrl":"http://127.0.0.1:3000/"}]},"protocolReason":"UnloadHandlerExistsInMainFrame"}
+{"reason":"Pages with WebSocket cannot enter back/forward cache.","failureType":"Pending browser support","subItems":{"type":"subitems","items":[{"frameUrl":"http://127.0.0.1:3000/"}]},"protocolReason":"WebSocket"}
+
+KEY METRICS
+first-contentful-paint: 11.0 s
+largest-contentful-paint: 18.8 s
+total-blocking-time: 300 ms
+cumulative-layout-shift: 0.001
+speed-index: 11.0 s

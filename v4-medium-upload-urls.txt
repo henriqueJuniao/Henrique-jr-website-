@@ -1,0 +1,16 @@
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-mentoring-student-md.webp (size: 35588 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henrique-jr-mentoring-student-md_0948b3e9.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-technical-bjj-instruction-md.webp (size: 47978 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henrique-jr-technical-bjj-instruction-md_b235df3e.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-coaching-bjj-students-md.webp (size: 56768 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henrique-jr-coaching-bjj-students-md_6d6684f7.webp
+
+========== Upload Summary ==========
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-mentoring-student-md.webp -> /manus-storage/henrique-jr-mentoring-student-md_0948b3e9.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-technical-bjj-instruction-md.webp -> /manus-storage/henrique-jr-technical-bjj-instruction-md_b235df3e.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-coaching-bjj-students-md.webp -> /manus-storage/henrique-jr-coaching-bjj-students-md_6d6684f7.webp
+=====================================
+Total: 3, Success: 3, Failed: 0

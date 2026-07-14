@@ -1,0 +1,164 @@
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/brazilian-jiu-jitsu-class-london-lg.webp (size: 99372 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/brazilian-jiu-jitsu-class-london-lg_e6c069ec.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/brazilian-jiu-jitsu-class-london-sm.webp (size: 24912 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/brazilian-jiu-jitsu-class-london-sm_d07999ee.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/child-brazilian-jiu-jitsu-exercise-lg.webp (size: 55228 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/child-brazilian-jiu-jitsu-exercise-lg_2a88fdf7.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/child-brazilian-jiu-jitsu-exercise-sm.webp (size: 22684 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/child-brazilian-jiu-jitsu-exercise-sm_dacba8ca.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-belt-grading-roger-gracie-euston-lg.webp (size: 75442 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henrique-jr-belt-grading-roger-gracie-euston-lg_47a67bb1.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-belt-grading-roger-gracie-euston-sm.webp (size: 47532 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henrique-jr-belt-grading-roger-gracie-euston-sm_f59ba747.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-bjj-demonstration-students-lg.webp (size: 95370 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henrique-jr-bjj-demonstration-students-lg_fb3e3362.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-bjj-demonstration-students-sm.webp (size: 25066 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henrique-jr-bjj-demonstration-students-sm_4fdb75f4.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-bjj-seminar-london-lg.webp (size: 165178 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henrique-jr-bjj-seminar-london-lg_9a76d256.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-bjj-seminar-london-sm.webp (size: 43734 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henrique-jr-bjj-seminar-london-sm_a7f3e851.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-coaching-bjj-students-lg.webp (size: 108638 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henrique-jr-coaching-bjj-students-lg_108045e4.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-coaching-bjj-students-sm.webp (size: 33692 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henrique-jr-coaching-bjj-students-sm_8bab51d0.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-coaching-children-bjj-lg.webp (size: 52042 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henrique-jr-coaching-children-bjj-lg_ec2333e7.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-coaching-children-bjj-sm.webp (size: 19272 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henrique-jr-coaching-children-bjj-sm_f38e1591.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-corporate-bjj-programme-lg.webp (size: 193754 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henrique-jr-corporate-bjj-programme-lg_532d1553.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-corporate-bjj-programme-sm.webp (size: 37904 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henrique-jr-corporate-bjj-programme-sm_98d18edc.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-individual-bjj-coaching-lg.webp (size: 82748 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henrique-jr-individual-bjj-coaching-lg_3bbf1ede.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-individual-bjj-coaching-sm.webp (size: 19872 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henrique-jr-individual-bjj-coaching-sm_3c391f57.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-private-bjj-technique-demonstration-lg.webp (size: 180386 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henrique-jr-private-bjj-technique-demonstration-lg_37061d53.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-private-bjj-technique-demonstration-sm.webp (size: 37354 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henrique-jr-private-bjj-technique-demonstration-sm_46c1114f.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-private-coaching-london-lg.webp (size: 101714 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henrique-jr-private-coaching-london-lg_6993f77e.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-private-coaching-london-sm.webp (size: 42702 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henrique-jr-private-coaching-london-sm_ee7de517.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-professional-portrait-london-lg.webp (size: 40088 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henrique-jr-professional-portrait-london-lg_b754b0e4.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-professional-portrait-london-sm.webp (size: 17804 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henrique-jr-professional-portrait-london-sm_a87c5381.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-roger-gracie-black-belt-portrait-sm.webp (size: 14194 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henrique-jr-roger-gracie-black-belt-portrait-sm_db8b2221.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-technical-bjj-instruction-lg.webp (size: 100728 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henrique-jr-technical-bjj-instruction-lg_c3564516.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-technical-bjj-instruction-sm.webp (size: 26152 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henrique-jr-technical-bjj-instruction-sm_54c22620.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-with-roger-gracie-lg.webp (size: 93726 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henrique-jr-with-roger-gracie-lg_daf17d50.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-with-roger-gracie-sm.webp (size: 44110 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henrique-jr-with-roger-gracie-sm_a82f99af.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/kids-brazilian-jiu-jitsu-class-circle-lg.webp (size: 97214 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/kids-brazilian-jiu-jitsu-class-circle-lg_2e6afa3a.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/kids-brazilian-jiu-jitsu-class-circle-sm.webp (size: 42228 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/kids-brazilian-jiu-jitsu-class-circle-sm_df15492f.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/kids-brazilian-jiu-jitsu-team-game-lg.webp (size: 58248 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/kids-brazilian-jiu-jitsu-team-game-lg_06b7e5c5.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/kids-brazilian-jiu-jitsu-team-game-sm.webp (size: 20688 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/kids-brazilian-jiu-jitsu-team-game-sm_fdff62d8.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/roger-gracie-euston-bjj-community-lg.webp (size: 166912 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/roger-gracie-euston-bjj-community-lg_4dc59891.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/roger-gracie-euston-bjj-community-sm.webp (size: 45892 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/roger-gracie-euston-bjj-community-sm_77f3e58f.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/teen-brazilian-jiu-jitsu-students-lg.webp (size: 48768 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/teen-brazilian-jiu-jitsu-students-lg_56626ab0.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/teen-brazilian-jiu-jitsu-students-sm.webp (size: 17866 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/teen-brazilian-jiu-jitsu-students-sm_9f8c24d7.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henriquejr-logo-black.svg (size: 10200 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henriquejr-logo-black_4982be3f.svg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henriquejr-logo-gold.svg (size: 10200 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henriquejr-logo-gold_3a1abcf0.svg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henriquejr-logo-white.svg (size: 10200 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henriquejr-logo-white_64dc09be.svg
+
+========== Upload Summary ==========
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/brazilian-jiu-jitsu-class-london-lg.webp -> /manus-storage/brazilian-jiu-jitsu-class-london-lg_e6c069ec.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/brazilian-jiu-jitsu-class-london-sm.webp -> /manus-storage/brazilian-jiu-jitsu-class-london-sm_d07999ee.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/child-brazilian-jiu-jitsu-exercise-lg.webp -> /manus-storage/child-brazilian-jiu-jitsu-exercise-lg_2a88fdf7.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/child-brazilian-jiu-jitsu-exercise-sm.webp -> /manus-storage/child-brazilian-jiu-jitsu-exercise-sm_dacba8ca.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-belt-grading-roger-gracie-euston-lg.webp -> /manus-storage/henrique-jr-belt-grading-roger-gracie-euston-lg_47a67bb1.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-belt-grading-roger-gracie-euston-sm.webp -> /manus-storage/henrique-jr-belt-grading-roger-gracie-euston-sm_f59ba747.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-bjj-demonstration-students-lg.webp -> /manus-storage/henrique-jr-bjj-demonstration-students-lg_fb3e3362.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-bjj-demonstration-students-sm.webp -> /manus-storage/henrique-jr-bjj-demonstration-students-sm_4fdb75f4.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-bjj-seminar-london-lg.webp -> /manus-storage/henrique-jr-bjj-seminar-london-lg_9a76d256.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-bjj-seminar-london-sm.webp -> /manus-storage/henrique-jr-bjj-seminar-london-sm_a7f3e851.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-coaching-bjj-students-lg.webp -> /manus-storage/henrique-jr-coaching-bjj-students-lg_108045e4.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-coaching-bjj-students-sm.webp -> /manus-storage/henrique-jr-coaching-bjj-students-sm_8bab51d0.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-coaching-children-bjj-lg.webp -> /manus-storage/henrique-jr-coaching-children-bjj-lg_ec2333e7.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-coaching-children-bjj-sm.webp -> /manus-storage/henrique-jr-coaching-children-bjj-sm_f38e1591.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-corporate-bjj-programme-lg.webp -> /manus-storage/henrique-jr-corporate-bjj-programme-lg_532d1553.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-corporate-bjj-programme-sm.webp -> /manus-storage/henrique-jr-corporate-bjj-programme-sm_98d18edc.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-individual-bjj-coaching-lg.webp -> /manus-storage/henrique-jr-individual-bjj-coaching-lg_3bbf1ede.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-individual-bjj-coaching-sm.webp -> /manus-storage/henrique-jr-individual-bjj-coaching-sm_3c391f57.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-private-bjj-technique-demonstration-lg.webp -> /manus-storage/henrique-jr-private-bjj-technique-demonstration-lg_37061d53.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-private-bjj-technique-demonstration-sm.webp -> /manus-storage/henrique-jr-private-bjj-technique-demonstration-sm_46c1114f.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-private-coaching-london-lg.webp -> /manus-storage/henrique-jr-private-coaching-london-lg_6993f77e.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-private-coaching-london-sm.webp -> /manus-storage/henrique-jr-private-coaching-london-sm_ee7de517.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-professional-portrait-london-lg.webp -> /manus-storage/henrique-jr-professional-portrait-london-lg_b754b0e4.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-professional-portrait-london-sm.webp -> /manus-storage/henrique-jr-professional-portrait-london-sm_a87c5381.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-roger-gracie-black-belt-portrait-sm.webp -> /manus-storage/henrique-jr-roger-gracie-black-belt-portrait-sm_db8b2221.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-technical-bjj-instruction-lg.webp -> /manus-storage/henrique-jr-technical-bjj-instruction-lg_c3564516.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-technical-bjj-instruction-sm.webp -> /manus-storage/henrique-jr-technical-bjj-instruction-sm_54c22620.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-with-roger-gracie-lg.webp -> /manus-storage/henrique-jr-with-roger-gracie-lg_daf17d50.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-with-roger-gracie-sm.webp -> /manus-storage/henrique-jr-with-roger-gracie-sm_a82f99af.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/kids-brazilian-jiu-jitsu-class-circle-lg.webp -> /manus-storage/kids-brazilian-jiu-jitsu-class-circle-lg_2e6afa3a.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/kids-brazilian-jiu-jitsu-class-circle-sm.webp -> /manus-storage/kids-brazilian-jiu-jitsu-class-circle-sm_df15492f.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/kids-brazilian-jiu-jitsu-team-game-lg.webp -> /manus-storage/kids-brazilian-jiu-jitsu-team-game-lg_06b7e5c5.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/kids-brazilian-jiu-jitsu-team-game-sm.webp -> /manus-storage/kids-brazilian-jiu-jitsu-team-game-sm_fdff62d8.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/roger-gracie-euston-bjj-community-lg.webp -> /manus-storage/roger-gracie-euston-bjj-community-lg_4dc59891.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/roger-gracie-euston-bjj-community-sm.webp -> /manus-storage/roger-gracie-euston-bjj-community-sm_77f3e58f.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/teen-brazilian-jiu-jitsu-students-lg.webp -> /manus-storage/teen-brazilian-jiu-jitsu-students-lg_56626ab0.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/teen-brazilian-jiu-jitsu-students-sm.webp -> /manus-storage/teen-brazilian-jiu-jitsu-students-sm_9f8c24d7.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henriquejr-logo-black.svg -> /manus-storage/henriquejr-logo-black_4982be3f.svg
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henriquejr-logo-gold.svg -> /manus-storage/henriquejr-logo-gold_3a1abcf0.svg
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henriquejr-logo-white.svg -> /manus-storage/henriquejr-logo-white_64dc09be.svg
+=====================================
+Total: 40, Success: 40, Failed: 0

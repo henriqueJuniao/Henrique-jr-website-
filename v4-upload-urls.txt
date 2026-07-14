@@ -1,0 +1,20 @@
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-leading-full-class-sm.webp (size: 34824 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henrique-jr-leading-full-class-sm_ce1690b9.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-leading-full-class-lg.webp (size: 63880 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henrique-jr-leading-full-class-lg_e68fb38f.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-mentoring-student-sm.webp (size: 19820 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henrique-jr-mentoring-student-sm_c73af822.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-mentoring-student-lg.webp (size: 73484 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/henrique-jr-mentoring-student-lg_766018c1.webp
+
+========== Upload Summary ==========
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-leading-full-class-sm.webp -> /manus-storage/henrique-jr-leading-full-class-sm_ce1690b9.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-leading-full-class-lg.webp -> /manus-storage/henrique-jr-leading-full-class-lg_e68fb38f.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-mentoring-student-sm.webp -> /manus-storage/henrique-jr-mentoring-student-sm_c73af822.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/henriquejr/henrique-jr-mentoring-student-lg.webp -> /manus-storage/henrique-jr-mentoring-student-lg_766018c1.webp
+=====================================
+Total: 4, Success: 4, Failed: 0
