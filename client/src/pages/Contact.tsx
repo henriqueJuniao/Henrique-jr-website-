@@ -4,7 +4,7 @@ import { ArrowUpRight } from "lucide-react";
 import SiteLayout from "@/components/SiteLayout";
 import { SectionLabel } from "@/components/Editorial";
 
-const FORM_ENDPOINT = "https://formsubmit.co/ajax/hello@henriquejr.com";
+const FORM_ENDPOINT = "/api/contact";
 
 type SubmissionStatus = "idle" | "submitting" | "success" | "error";
 
@@ -29,9 +29,6 @@ export default function Contact() {
       service: String(formData.get("service") ?? ""),
       message: String(formData.get("message") ?? ""),
       _honey: String(formData.get("_honey") ?? ""),
-      _captcha: false,
-      _template: "table",
-      _subject: "New Consultation Request - HenriqueJR.com",
     };
 
     setSubmissionStatus("submitting");
@@ -73,18 +70,12 @@ export default function Contact() {
 
         <form
           className="contact-form"
-          action="https://formsubmit.co/hello@henriquejr.com"
+          action="/api/contact"
           method="POST"
           onSubmit={handleSubmit}
           aria-busy={isSubmitting}
         >
-          <input
-            type="hidden"
-            name="_subject"
-            value="New Consultation Request - HenriqueJR.com"
-          />
-          <input type="hidden" name="_template" value="table" />
-          <input type="hidden" name="_captcha" value="false" />
+
           <div className="contact-form__honeypot" aria-hidden="true">
             <label htmlFor="company-website">Leave this field empty</label>
             <input
