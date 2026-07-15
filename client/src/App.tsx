@@ -4,6 +4,7 @@ import Home from "@/pages/Home";
 import { Route, Switch } from "wouter";
 import ErrorBoundary from "@/components/ErrorBoundary";
 import Seo from "@/components/Seo";
+import AnalyticsConsent from "@/components/AnalyticsConsent";
 
 const About = lazy(() => import("@/pages/About"));
 const PrivateCoaching = lazy(() => import("@/pages/PrivateCoaching"));
@@ -11,6 +12,7 @@ const Corporate = lazy(() => import("@/pages/Corporate"));
 const Kids = lazy(() => import("@/pages/Kids"));
 const Testimonials = lazy(() => import("@/pages/Testimonials"));
 const Contact = lazy(() => import("@/pages/Contact"));
+const Privacy = lazy(() => import("@/pages/Privacy"));
 const NotFound = lazy(() => import("@/pages/NotFound"));
 
 function Router() {
@@ -24,6 +26,7 @@ function Router() {
         <Route path="/kids" component={Kids} />
         <Route path="/testimonials" component={Testimonials} />
         <Route path="/contact" component={Contact} />
+        <Route path="/privacy" component={Privacy} />
         <Route path="/404" component={NotFound} />
         <Route component={NotFound} />
       </Switch>
@@ -36,6 +39,7 @@ export default function App() {
     <ErrorBoundary>
       <Seo />
       <Router />
+      <AnalyticsConsent />
     </ErrorBoundary>
   );
 }

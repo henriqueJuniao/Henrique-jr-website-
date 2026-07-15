@@ -16,11 +16,11 @@ async function startServer() {
       ? path.resolve(__dirname, "public")
       : path.resolve(__dirname, "..", "dist", "public");
 
-  app.use(express.static(staticPath));
+  app.use(express.static(staticPath, { extensions: ["html"] }));
 
-  // Handle client-side routing - serve index.html for all routes
+  // Public routes are emitted as static HTML; unknown paths return the generated noindex 404 page.
   app.get("*", (_req, res) => {
-    res.sendFile(path.join(staticPath, "index.html"));
+    res.status(404).sendFile(path.join(staticPath, "404.html"));
   });
 
   const port = process.env.PORT || 3000;

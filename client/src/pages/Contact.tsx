@@ -3,6 +3,7 @@ import { useState, type FormEvent } from "react";
 import { ArrowUpRight } from "lucide-react";
 import SiteLayout from "@/components/SiteLayout";
 import { SectionLabel } from "@/components/Editorial";
+import { trackConversion } from "@/lib/analytics";
 
 const FORM_ENDPOINT = "/api/contact";
 
@@ -52,6 +53,7 @@ export default function Contact() {
 
       form.reset();
       setSubmissionStatus("success");
+      trackConversion("contact_form_submit");
     } catch {
       setSubmissionStatus("error");
     }

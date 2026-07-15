@@ -5,6 +5,7 @@ import { Link, useLocation } from "wouter";
 import { ArrowUpRight, Menu, X } from "lucide-react";
 import { logos } from "@/lib/assets";
 import { navigation } from "@/lib/content";
+import { openAnalyticsSettings } from "@/lib/analytics";
 
 function Brand({ inverse = false }: { inverse?: boolean }) {
   return (
@@ -218,7 +219,11 @@ function Footer() {
       </div>
       <div className="site-footer__bottom">
         <span>© {new Date().getFullYear()} HenriqueJR</span>
-        <span>Brazilian Jiu-Jitsu Coaching · London</span>
+        <div className="site-footer__legal">
+          <Link href="/privacy">Privacy</Link>
+          <button type="button" onClick={openAnalyticsSettings}>Analytics settings</button>
+          <span>Brazilian Jiu-Jitsu Coaching · London</span>
+        </div>
       </div>
     </footer>
   );
