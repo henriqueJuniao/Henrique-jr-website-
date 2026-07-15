@@ -1,6 +1,6 @@
 import { images, logos } from "./assets";
 
-export const SITE_URL = "https://henriquejr.com";
+export const SITE_URL = "https://www.henriquejr.com";
 export const SITE_NAME = "HenriqueJR";
 export const DEFAULT_SOCIAL_IMAGE_PATH = images.henriqueJrProfessionalPortraitLondon.src;
 export const DEFAULT_SOCIAL_IMAGE_ALT = "Henrique Jr., Brazilian Jiu-Jitsu coach in London";

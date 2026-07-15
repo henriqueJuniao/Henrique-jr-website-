@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://henriquejr.com/sitemap.xml
+Sitemap: https://www.henriquejr.com/sitemap.xml

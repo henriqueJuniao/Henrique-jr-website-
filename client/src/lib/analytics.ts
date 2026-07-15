@@ -26,8 +26,7 @@ export function isProductionWebsite(): boolean {
   if (typeof window === "undefined") return false;
   return (
     window.location.protocol === "https:" &&
-    (window.location.hostname === "henriquejr.com" ||
-      window.location.hostname === "www.henriquejr.com")
+    window.location.hostname === "www.henriquejr.com"
   );
 }
 
